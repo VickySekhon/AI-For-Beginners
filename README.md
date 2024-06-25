@@ -48,6 +48,7 @@ For a gentle introduction to _AI in the Cloud_ topics you may consider taking th
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------ |
 | 0  |                                 [Course Setup](./lessons/0-course-setup/setup.md)                                 |                      [Setup Your Development Environment](./lessons/0-course-setup/how-to-run.md)                       |   |
 | I  |               [**Introduction to AI**](./lessons/1-Intro/README.md)      | | |
+current**
 | 01  |       [Introduction and History of AI](./lessons/1-Intro/README.md)       |           -                            | -  |
 | II |              [**Symbolic AI**](./03-using-generative-ai-responsibly/README.md?WT.mc_id=academic-105485-koreyst)              |
 | 02  |       [Knowledge Representation and Expert Systems](./lessons/2-Symbolic/README.md)       |            [Expert Systems](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/2-Symbolic/Animals.ipynb) /  [Ontology](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/2-Symbolic/FamilyOntology.ipynb) /[Concept Graph](https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/2-Symbolic/MSConceptGraph.ipynb)                             |  |
